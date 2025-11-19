@@ -8,7 +8,7 @@ const Slider = () => {
   useEffect(() => {
     const getData = async () => {
       try {
-        const res = await axios.get("/api/v1/getSliderImage");
+        const res = await axios.get(`${import.meta.env.VITE_API_URL}/api/v1/getSliderImage`);
         const url = res.data.data[0].images || [];
         setImgUrl(url);
       } catch (error) {
