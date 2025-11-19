@@ -20,7 +20,7 @@ import Login from "../auth/Login.jsx";
 import Product_details from "./user/Product_details.jsx";
 import Cart from "./user/Cart.jsx";
 import Delivery from "./user/checkout/Delivery.jsx";
-import Category from "./user/pages/category.jsx";
+import Category from "./user/pages/Category.jsx";
 import AboutUs from "./user/pages/AboutUs.jsx";
 import Blog from "./user/pages/Blog.jsx";
 import Faqs from "./user/pages/Faqs.jsx";
