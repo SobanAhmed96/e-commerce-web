@@ -27,7 +27,7 @@ import Faqs from "./user/pages/Faqs.jsx";
 import PrivacyPolicy from "./user/pages/PrivacyPolicy.jsx";
 import GetAllOrder from "./admin/order/GetAllOrder.jsx";
 import OrderDetails from "./admin/order/OrderDetails.jsx";
-import MyOrder from "./user/myOrder/myOrder.jsx";
+import MyOrder from "./user/myOrder/MyOrder.jsx";
 import OrderDetail from "./user/myOrder/OrderDetail.jsx";
 import Profile from "./user/profile/Profile.jsx";
 import EditProfile from "./user/profile/EditProfile.jsx";
